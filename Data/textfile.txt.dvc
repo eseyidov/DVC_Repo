@@ -1,0 +1,4 @@
+outs:
+- md5: 18aa5c78282ece1959b7bc8569c1a3aa
+  size: 21
+  path: textfile.txt
